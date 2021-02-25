@@ -4,6 +4,7 @@ Parts List
 ============================================
 
 This page catalogues the parts in the RACECAR-MN Full.  To order these parts, visit the :ref:`bom` page.
+The DXF files needed for MN-Lite are located in this [google drive folder](https://drive.google.com/drive/folders/1kLfhNH23iLulnDUMeBkht9tOkHUuMPKy?usp=sharing)
 
 ======================
 Electronics
